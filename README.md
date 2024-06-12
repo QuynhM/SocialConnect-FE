@@ -19,3 +19,5 @@ A clone of the popular social media platform, Facebook.
 ![Logos](../tech_logos.png)
 - HTML5
 - CSS
+
+The backend for this project is stored here: https://github.com/QuynhM/SocialConnect-BE
