@@ -1,5 +1,5 @@
 # Social Connect
-![Logo](../logo.png)
+
 A clone of the popular social media platform, Facebook.
 
 ## Demo
@@ -16,8 +16,7 @@ A clone of the popular social media platform, Facebook.
 
 
 ## Techonologies used
-![Logos](../tech_logos.png)
-- HTML5
-- CSS
+- JavaScript
+- React
 
 The backend for this project is stored here: https://github.com/QuynhM/SocialConnect-BE
